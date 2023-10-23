@@ -49,7 +49,7 @@ function reset(){
     // 変数、表示を初期化
     elapsedTime = 0;
     holdTime = 0;
-    showTime.textContent = "00:00.000";
+    showTime.textContent = "00:00.00";
 
     startButton.disabled = false;
     stopButton.disabled = true;
